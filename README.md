@@ -96,7 +96,6 @@ This project integrates datasets across all stages to detect anomalies and highl
 2. Install dependencies:  
    ```bash
    pip install -r requirements.txt
-   ```bash
 3. Open notebooks in Jupyter or Google Colab.
 4. Run analyses to reproduce visualizations.
 
